@@ -1,2 +1,4 @@
 # lopegero.github.io
-This is a beautiful day, isn't it?
+This website is my hub for all my online activities.
+____
+
